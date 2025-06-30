@@ -1,23 +1,30 @@
-name: Update README
+name: Update README with Stats
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 8 * * *"
   workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
 
-      - name: Update README with GitHub Activity
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Update README with GitHub stats
         uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         with:
-          COMMIT_MSG: "⚡ Update README with the recent activity"
+          COMMIT_MSG: "Update GitHub stats"
           MAX_LINES: 5
+
+      - name: Update WakaTime stats
+        uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          REPOSITORY: XindanZhang/XindanZhang
+          COMMIT_MESSAGE: "Updated WakaTime stats"
