@@ -1,3 +1,5 @@
+## Hi there! 👋
+
 <div align="center">
 
 <!-- Dynamic Typing Animation -->
