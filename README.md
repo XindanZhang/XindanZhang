@@ -72,23 +72,7 @@ Saturday                 132 commits         ████░░░░░░░�
 Sunday                   100 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Toronto
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in Python** 
+**I Mostly Code in Rust** 
 
 ```text
 Python                   8 repos             ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
