@@ -34,6 +34,8 @@
 
 ---
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-27%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.7%20million%20lines%20of%20code-blue)
@@ -42,7 +44,7 @@
 
 > 📦 379.3 kB Used in GitHub's Storage 
  > 
-> 🏆 652 Contributions in the Year 2025
+> 🏆 653 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -50,6 +52,42 @@
  > 
 > 🔑 28 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                205 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+🌆 Daytime                529 commits         ███████░░░░░░░░░░░░░░░░░░   29.03 % 
+🌃 Evening                593 commits         ████████░░░░░░░░░░░░░░░░░   32.55 % 
+🌙 Night                  495 commits         ███████░░░░░░░░░░░░░░░░░░   27.17 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   349 commits         █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
+Tuesday                  155 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+Wednesday                360 commits         █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
+Thursday                 235 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+Friday                   219 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+Saturday                 244 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+Sunday                   260 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Toronto
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -63,5 +101,5 @@ Makefile                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/09/2025 01:17:13 UTC
+ Last Updated on 18/09/2025 01:16:51 UTC
 <!--END_SECTION:waka-->
