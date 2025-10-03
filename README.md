@@ -34,60 +34,22 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-27%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.5%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 379.3 kB Used in GitHub's Storage 
  > 
-> 🏆 671 Contributions in the Year 2025
+> 🏆 678 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 15 Public Repositories 
+> 📜 17 Public Repositories 
  > 
-> 🔑 28 Private Repositories 
+> 🔑 26 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                130 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-🌆 Daytime                382 commits         ███████░░░░░░░░░░░░░░░░░░   28.38 % 
-🌃 Evening                453 commits         ████████░░░░░░░░░░░░░░░░░   33.66 % 
-🌙 Night                  381 commits         ███████░░░░░░░░░░░░░░░░░░   28.31 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   262 commits         █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
-Tuesday                  100 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
-Wednesday                300 commits         ██████░░░░░░░░░░░░░░░░░░░   22.29 % 
-Thursday                 188 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
-Friday                   151 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
-Saturday                 164 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
-Sunday                   181 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Toronto
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -101,5 +63,5 @@ Makefile                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/10/2025 01:17:13 UTC
+ Last Updated on 03/10/2025 01:16:42 UTC
 <!--END_SECTION:waka-->
