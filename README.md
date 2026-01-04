@@ -36,32 +36,32 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.80%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.81%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 381.0 kB Used in GitHub's Storage 
  > 
-> 🏆 13 Contributions in the Year 2026
+> 🏆 24 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 17 Public Repositories 
+> 📜 18 Public Repositories 
  > 
 > 🔑 32 Private Repositories 
  > 
-**I Mostly Code in Python** 
+**I Mostly Code in TypeScript** 
 
 ```text
-Python                   12 repos            ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-TypeScript               11 repos            █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
-Rust                     7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
-TeX                      6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-Makefile                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+TypeScript               12 repos            ██████░░░░░░░░░░░░░░░░░░░   22.64 % 
+Python                   12 repos            ██████░░░░░░░░░░░░░░░░░░░   22.64 % 
+Rust                     7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+TeX                      6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
+Makefile                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 ```
 
 
 
 
- Last Updated on 03/01/2026 01:26:47 UTC
+ Last Updated on 04/01/2026 01:49:09 UTC
 <!--END_SECTION:waka-->
