@@ -34,22 +34,60 @@
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-27%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.81%20million%20lines%20of%20code-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.82%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 381.0 kB Used in GitHub's Storage 
  > 
-> 🏆 24 Contributions in the Year 2026
+> 🏆 30 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 18 Public Repositories 
+> 📜 19 Public Repositories 
  > 
 > 🔑 32 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                185 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+🌆 Daytime                603 commits         ███████░░░░░░░░░░░░░░░░░░   29.82 % 
+🌃 Evening                676 commits         ████████░░░░░░░░░░░░░░░░░   33.43 % 
+🌙 Night                  558 commits         ███████░░░░░░░░░░░░░░░░░░   27.60 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   375 commits         █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
+Tuesday                  179 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+Wednesday                373 commits         █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
+Thursday                 301 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+Friday                   245 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+Saturday                 258 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+Sunday                   291 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Toronto
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -63,5 +101,5 @@ Makefile                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/01/2026 01:49:09 UTC
+ Last Updated on 06/01/2026 01:41:10 UTC
 <!--END_SECTION:waka-->
