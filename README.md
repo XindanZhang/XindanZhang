@@ -1,36 +1,43 @@
 <div align="center">
+  <img src="./assets/control-plane.svg" alt="Xindan Zhang control plane banner" width="100%" />
+</div>
 
-# Xindan Zhang
+<div align="center">
 
 `systems` `networking` `agentic tooling`
 
-Focused on networked runtimes, systems experiments, and tooling for fast iteration.
-
-<p>
-  <a href="https://nextmini.org"><strong>nextmini.org</strong></a>
-  ·
-  <a href="https://github.com/XindanZhang/personal-site"><strong>personal site</strong></a>
-</p>
+Building networked runtimes, systems experiments, and tools for faster iteration.
 
 </div>
 
 ```text
+$ whoami
+Xindan Zhang
+
 $ focus
-networked runtimes
-systems experiments
-agentic tooling
+- networked runtimes
+- systems experimentation
+- agentic infrastructure
 ```
 
 ## Selected Projects
 
-| Project | Description |
-| --- | --- |
-| [nextmini.org](https://nextmini.org) | Current public project. |
-| [personal site](https://github.com/XindanZhang/personal-site) | Source for my website. |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://nextmini.org">nextmini.org</a></strong><br />
+      Public project and primary surface.
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/XindanZhang/personal-site">personal site</a></strong><br />
+      Website source and personal web presence.
+    </td>
+  </tr>
+</table>
 
 ```text
-$ design
+$ principles
 signal over noise
 focused surfaces
-fast iteration
+fewer, better artifacts
 ```
