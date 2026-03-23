@@ -15,7 +15,22 @@ Focused on networked runtimes, systems experiments, and tooling for fast iterati
 </div>
 
 ```text
-$ public_surface
-nextmini.org   current project
-personal-site  website source
+$ focus
+networked runtimes
+systems experiments
+agentic tooling
+```
+
+## Selected Projects
+
+| Project | Description |
+| --- | --- |
+| [nextmini.org](https://nextmini.org) | Current public project. |
+| [personal site](https://github.com/XindanZhang/personal-site) | Source for my website. |
+
+```text
+$ design
+signal over noise
+focused surfaces
+fast iteration
 ```
