@@ -1,7 +1,5 @@
 <div align="center">
 
-# Xindan Zhang
-
 `systems` `networking` `agentic tooling`
 
 Building networked runtimes, systems experiments, and tools for faster iteration.
