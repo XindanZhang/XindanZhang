@@ -26,7 +26,7 @@ agentic infrastructure</pre>
       <a href="https://nextmini.org"><strong>nextmini.org</strong></a><br />
       current public project<br /><br />
       <a href="https://xindanzhang.github.io/personal-site/"><strong>personal site</strong></a><br />
-      xindanzhang.github.io/personal-site · <a href="https://github.com/XindanZhang/personal-site">source</a>
+      xindanzhang.github.io/personal-site
     </td>
   </tr>
 </table>
